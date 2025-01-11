@@ -1,2 +1,2 @@
 # mik-on-ubuntu
-install mik on ubuntu server 
+install Mikrotik on an Ubuntu server by using a script
